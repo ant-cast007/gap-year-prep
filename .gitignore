@@ -1,0 +1,29 @@
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# C++
+build/
+cmake-build-*/
+*.o
+*.a
+*.dylib
+*.so
+*.exe
+
+# Java
+*.class
+out/
+
+# Editor and temporary files
+*.swp
+*~
