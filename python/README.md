@@ -1,0 +1,1 @@
+Track Python fundamentals, functions, data structures, problem-solving exercises, and small projects.
